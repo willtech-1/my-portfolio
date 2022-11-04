@@ -41,7 +41,7 @@ export default function Home() {
           <div className='column'>
             <div className='textWrapper'>
               <span className="topLine-text">Hi,</span>
-              <h1 className='heading'>I'm Aphile</h1>
+              <h1 className='heading'>I&apos;m Aphile</h1>
              
                 <p className="subtitle">
                   I am Full-stack developer with experience in front-end development using
